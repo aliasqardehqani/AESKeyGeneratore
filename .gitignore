@@ -1,0 +1,40 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Django specific
+*.pot
+*.pyc
+db.sqlite3
+/static/
+media/
+
+# RSA keys
+rsa_keys/private_key.pem
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
